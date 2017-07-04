@@ -1,0 +1,15 @@
+Item.pde filter=lfs diff=lfs merge=lfs -text
+MyObject.pde filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+shooting2.pde filter=lfs diff=lfs merge=lfs -text
+Bomb.pde filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+Ship.pde filter=lfs diff=lfs merge=lfs -text
+Bullet.pde filter=lfs diff=lfs merge=lfs -text
+Factory.pde filter=lfs diff=lfs merge=lfs -text
+Menu.pde filter=lfs diff=lfs merge=lfs -text
+Info.pde filter=lfs diff=lfs merge=lfs -text
+Stage.pde filter=lfs diff=lfs merge=lfs -text
+Background.pde filter=lfs diff=lfs merge=lfs -text
+Effect.pde filter=lfs diff=lfs merge=lfs -text
+Enemy.pde filter=lfs diff=lfs merge=lfs -text
